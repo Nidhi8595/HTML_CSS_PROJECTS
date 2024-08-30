@@ -212,9 +212,11 @@ section {
 .grid_item {
     display: grid;
     place-items: center;
+    height:100%;
 }
 
 .card {
+    height:100%;
     width: 320px;
     display: flex;
     flex-direction: column;
