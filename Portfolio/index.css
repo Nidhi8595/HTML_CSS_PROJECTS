@@ -198,12 +198,54 @@ section {
     border: 3px solid cornflowerblue;
 }
 
+#education{
+    background: lightblue;
+    border: 3px solid cornflowerblue;
+}
+
+#education h2{
+    font-size: 4rem;
+    text-align: center;
+    padding: 2rem 0;
+}
+
 #projects h2 {
     font-size: 4rem;
     text-align: center;
     padding: 2rem 0;
 }
 
+#certifications{
+    background: lightblue;
+    border: 3px solid cornflowerblue;
+}
+
+#certifications h2{
+    font-size: 4rem;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+#certifications_container{
+    display:flex;
+    justify-content: center;
+    gap:9rem;
+    flex-wrap: wrap;
+}
+#education .card{
+    background-color: antiquewhite;
+    padding: 5px;
+    align-items: center;
+    border:2px solid brown;
+    border-radius: 15px;
+}
+
+#edu_container{
+    display:flex;
+    justify-content: center;
+    gap:9rem;
+    flex-wrap: wrap;
+}
 .project_container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
