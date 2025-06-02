@@ -1,6 +1,6 @@
 # 🚀 Neelakshi's Portfolio
 
-https://github.com/Nidhi8595/HTML_CSS_PROJECTS/tree/main/Portfolio
+https://nidhi8595.github.io/HTML_CSS_PROJECTS/Portfolio/
 
 A modern, interactive, and responsive developer portfolio built with **HTML**, **CSS**, and **JavaScript**.
 
